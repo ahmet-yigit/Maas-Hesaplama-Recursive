@@ -1,0 +1,13 @@
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\bin\Debug\netcoreapp3.1\MaasHesaplama.exe
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\bin\Debug\netcoreapp3.1\MaasHesaplama.deps.json
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\bin\Debug\netcoreapp3.1\MaasHesaplama.runtimeconfig.json
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\bin\Debug\netcoreapp3.1\MaasHesaplama.runtimeconfig.dev.json
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\bin\Debug\netcoreapp3.1\MaasHesaplama.dll
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\bin\Debug\netcoreapp3.1\MaasHesaplama.pdb
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.csprojAssemblyReference.cache
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.AssemblyInfoInputs.cache
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.AssemblyInfo.cs
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.csproj.CoreCompileInputs.cache
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.dll
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.pdb
+E:\.net_core_app\AdaYazilim\MaasHesaplama\MaasHesaplama\obj\Debug\netcoreapp3.1\MaasHesaplama.genruntimeconfig.cache
